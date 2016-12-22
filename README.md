@@ -2,6 +2,8 @@
 
 Work space for files and boxes related to my Vagrant exerciese
 
+Do not put the box files in here. Put them in Atlas.
+
 Sources:
 
 https://blog.engineyard.com/2014/building-a-vagrant-box
