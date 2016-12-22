@@ -19,6 +19,6 @@ In /etc/sysconfig/network-scripts, edit the ifcfg-interface and change
 
 Networking: https://wiki.centos.org/FAQ/CentOS7
 
-Boxes on Atlas:
+## Boxes on Atlas:
 
 https://atlas.hashicorp.com/boxes/search?utf8=✓&sort=&provider=&q=kg4giy
