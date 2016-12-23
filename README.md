@@ -13,7 +13,7 @@ https://www.skoblenick.com/vagrant/creating-a-custom-box-from-scratch/
 
 ## CentOS does not enable networking by default (ugh)
 
-In /etc/sysconfig/network-scripts, edit the ifcfg-interface and change 
+Building the box, you need to make some changes. In /etc/sysconfig/network-scripts, edit the ifcfg-interface and change 
 
 	ONBOOT=no to ONBOOT=yes
 
