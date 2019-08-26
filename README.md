@@ -10,6 +10,11 @@ https://blog.engineyard.com/2014/building-a-vagrant-box
 
 https://www.skoblenick.com/vagrant/creating-a-custom-box-from-scratch/
 
+## Multiple Machines
+
+https://www.vagrantup.com/docs/multi-machine/
+
+https://blog.ipswitch.com/how-to-create-multi-machine-environments-with-vagrant
 
 ## CentOS does not enable networking by default (ugh)
 
