@@ -18,6 +18,8 @@ https://blog.ipswitch.com/how-to-create-multi-machine-environments-with-vagrant
 
 ## CentOS does not enable networking by default (ugh)
 
+* bento/centos-7.6 has fixed the networking issue. 
+
 Building the box, you need to make some changes. In /etc/sysconfig/network-scripts, edit the ifcfg-interface and change 
 
 	ONBOOT=no to ONBOOT=yes
